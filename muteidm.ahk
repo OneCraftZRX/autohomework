@@ -1,0 +1,4 @@
+Loop
+{
+    WinHide,virusdetect
+}
